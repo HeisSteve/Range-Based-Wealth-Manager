@@ -1,0 +1,22 @@
+{"units": [
+    {
+        "amount": 1210,
+        "fluidChange": 2,
+        "name": "RBC Account",
+        "type": true,
+        "tags": [
+            "Home",
+            "Bank"
+        ]
+    },
+    {
+        "amount": -260,
+        "fluidChange": 0,
+        "name": "Home loan",
+        "type": false,
+        "tags": [
+            "Loan",
+            "Home"
+        ]
+    }
+]}
